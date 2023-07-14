@@ -52,14 +52,5 @@
     "IsBlueprint": false,
     "BufferTransferRemaining": 0,
     "TargetItemName": "rifle.bolt"
-  },
-  {
-    "TargetCategory": null,
-    "MaxAmountInOutput": 0,
-    "BufferAmount": 0,
-    "MinAmountInInput": 0,
-    "IsBlueprint": false,
-    "BufferTransferRemaining": 0,
-    "TargetItemName": "shotgun.spas12"
   }
 ]
