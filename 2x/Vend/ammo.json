@@ -1,0 +1,38 @@
+[
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 500,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "ammo.pistol"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 500,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "ammo.rifle"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 250,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "ammo.shotgun.fire"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 250,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "ammo.shotgun"
+    }
+  ]

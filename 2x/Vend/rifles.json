@@ -1,0 +1,20 @@
+[
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 1,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "rifle.ak"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 6,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "rifle.semiauto"
+    }
+  ]

@@ -1,0 +1,38 @@
+[
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 6,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "pistol.revolver"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 3,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "pistol.python"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 6,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "pistol.m92"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 6,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "pistol.semiauto"
+    }
+  ]

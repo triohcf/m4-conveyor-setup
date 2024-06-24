@@ -1,0 +1,56 @@
+[
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 6,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "wall.frame.garagedoor"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 3,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "workbench1"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 3,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "workbench2"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 3,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "workbench3"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 3,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "rustige_egg_b"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 3,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "rustige_egg_a"
+    }
+  ]

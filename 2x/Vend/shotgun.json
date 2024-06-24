@@ -1,0 +1,29 @@
+[
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 6,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "shotgun.pump"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 6,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "shotgun.double"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 6,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "shotgun.waterpipe"
+    }
+  ]

@@ -1,0 +1,74 @@
+[
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 20,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "oretea.pure"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 20,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "woodtea.pure"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 20,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "maxhealthtea.pure"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 100,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "clone.hemp"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 100,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "clone.red.berry"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 100,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "clone.blue.berry"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 100,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "clone.yellow.berry"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 100,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "clone.pumpkin"
+    }
+  ]
